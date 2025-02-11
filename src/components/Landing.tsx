@@ -1,12 +1,4 @@
-import {
-  Box,
-  Heading,
-  HStack,
-  Text,
-  Flex,
-  Image,
-  VStack,
-} from '@chakra-ui/react'
+import { Box, Heading, HStack, Text, Flex, Image } from '@chakra-ui/react'
 import graph from '../Images/graph.jpg'
 
 import bills from '../Icons/bills.svg'
